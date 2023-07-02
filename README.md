@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer with expertise in HTML, CSS, JavaScript and ReactJS. I have experience in developing responsive web applications and is passionate about creating user-friendly interfaces. I always eager to learn new technologies and is currently exploring the latest trends in web development.
+I'm a frontend developer with expertise in HTML, CSS, JavaScript and ReactJS. I have experience in developing responsive web applications and is passionate about creating user-friendly interfaces. I always eager to learn new technologies and is currently exploring the latest trends in web development.
 
 * 🌍  I'm based in Bhubanewsar,Odisha,India
 * ✉️  You can contact me at [krana.outr@gmail.com](mailto:krana.outr@gmail.com)
